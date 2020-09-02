@@ -1,5 +1,10 @@
 #!/usr/bin/python3.7
 
+
+# NEXT STEPS
+### CRIAR GetPosition
+### CRIAR FUNCAO CLICK POSITION.
+
 import tkinter as tk
 from pynput.mouse import Button, Listener 
 import pyautogui
